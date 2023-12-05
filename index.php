@@ -25,7 +25,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2023 Simple PHP Website</p>
+        <p>&copy; 2023 Simple PH Website</p>
     </footer>
 
 </body>
