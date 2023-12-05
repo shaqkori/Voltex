@@ -7,6 +7,7 @@
     <title>Simple PHP Website</title>
 </head>
 <body>
+    
 
     <header>
         <h1>Welcome to My PHP Website</h1>
