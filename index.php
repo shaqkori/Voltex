@@ -25,7 +25,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2023 Simple PH Website</p>
+        <p>&copy; 2023 Simple PH Wbsite</p>
     </footer>
 
 </body>
