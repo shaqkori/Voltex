@@ -25,7 +25,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2023 imple PH Wbite</p>
+        <p>&copy; 2023 imple P Wbite</p>
     </footer>
 
 </body>
