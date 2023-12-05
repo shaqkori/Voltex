@@ -19,6 +19,7 @@
             <p>This is a simple PHP wesite with CSS styling.</p>
         </section>
 
+        
         <section>
             <h2>Contact</h2>
             <p>You can reach us at contact@example.com.</p>
@@ -26,7 +27,7 @@
     </main>
 
     <footer>
-        
+
         <p>&copy; 2023 imple P Wbite</p>
     </footer>
 
