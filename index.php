@@ -15,7 +15,7 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>This is a simple PHP website with CSS styling.</p>
+            <p>This is a simple PHP wesite with CSS styling.</p>
         </section>
 
         <section>
